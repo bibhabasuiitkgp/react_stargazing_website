@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_stargazing_website/static/css/main.c52d6f7d.css",
+    "main.js": "/react_stargazing_website/static/js/main.1a9dee91.js",
+    "static/media/background3.jpg": "/react_stargazing_website/static/media/background3.8e4e5756f6985191f11c.jpg",
+    "index.html": "/react_stargazing_website/index.html",
+    "main.c52d6f7d.css.map": "/react_stargazing_website/static/css/main.c52d6f7d.css.map",
+    "main.1a9dee91.js.map": "/react_stargazing_website/static/js/main.1a9dee91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52d6f7d.css",
+    "static/js/main.1a9dee91.js"
+  ]
+}
